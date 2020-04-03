@@ -1,0 +1,40 @@
+Depot:
+Settle, WA
+Description:
+Books
+Address:
+1 Main Street
+Anytow
+WA
+
+Depot:
+New York, NY
+Transfer Service:
+First Class
+Description:
+Books
+Address:
+New York city
+1st Broadway
+
+
+Depot:
+New York, NY
+Transfer Service:
+First Class
+Description:
+Books
+Address:
+New York city
+1st Broadway
+
+Depot:
+Boston, MA
+Transfer Service:
+First Class
+Description:
+Books
+Address:
+New York city
+1st Broadway
+
